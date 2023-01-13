@@ -1,0 +1,19 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.grid {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1%;
+    flex-wrap: wrap;
+
+    
+}
+.grid .box {
+    width: 12%;
+
+}
